@@ -21,8 +21,6 @@
             <artifactId>nd4j-common</artifactId>
             <version>1.0.0-beta2</version>
         </dependency>
-
-
 <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
